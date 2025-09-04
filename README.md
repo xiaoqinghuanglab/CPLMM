@@ -1,6 +1,6 @@
 # CPLMM: Longitudinal Plasma Proteomics Analysis Package
 
-**RPackage** is designed for **longitudinal plasma proteomics analysis**, with a special focus on modeling disease onset and progression (e.g., Alzheimer's disease). It integrates preprocessing, change-point mixed models, statistical tests, survival analysis, and publication-style visualization.
+**CPLMM** is designed for **longitudinal plasma proteomics analysis**, with a special focus on modeling disease onset and progression (e.g., Alzheimer's disease). It integrates preprocessing, change-point mixed models, statistical tests, survival analysis, and publication-style visualization.
 
 ## Table of Contents
 
@@ -46,7 +46,7 @@ Most functions expect longitudinal data frames with the following columns:
 ## Quick Start
 
 ``` r
-library(RPackage)
+library(CPLMM)
 
 # Load your data
 df_all <- read.csv("path/to/df_all.csv")
@@ -359,18 +359,15 @@ For detailed function documentation, use:
 # ... and other function names
 ```
 
-## License
-
-[Add your license information here]
 
 ## Citation
 
-[Add citation information here]
+[Later]
 
 ## Contributing
 
-[Add contributing guidelines here]
+Contributors: Aatman Vasoya, Xiaoqing Huang
 
 ## Contact
 
-[Add contact information here]
+Corresponding: Xiaoqing Huang, huanxi@iu.edu
