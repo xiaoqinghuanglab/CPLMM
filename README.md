@@ -14,15 +14,15 @@
 -   [Survival Analysis](#survival-analysis)
 -   [Function Reference](#function-reference)
 
-## Installation {#installation}
+## Installation
 
 ``` r
 # Install from GitHub 
-# devtools::install_github("xiaoqinghuanglab/CPLMM")
+devtools::install_github("xiaoqinghuanglab/CPLMM")
 library(CPLMM)
 ```
 
-## Data Requirements {#data-requirements}
+## Data Requirements
 
 ### Input Data Structure
 
@@ -43,7 +43,7 @@ Most functions expect longitudinal data frames with the following columns:
 -   `df_abnormal_only` - CSV file with abnormal only patients
 -   `df_status_change` - CSV file with patients who converted from Normal to Abnormal
 
-## Quick Start {#quick-start}
+## Quick Start
 
 ``` r
 library(RPackage)
@@ -74,7 +74,7 @@ wald <- compute_wald_test(
 )
 ```
 
-## Data Preprocessing {#data-preprocessing}
+## Data Preprocessing
 
 ### Calculate Years Since Onset
 
@@ -142,7 +142,7 @@ identify_status_change_subjects(
 )
 ```
 
-## Statistical Modeling {#statistical-modeling}
+## Statistical Modeling
 
 ### Change-Point Linear Mixed Models (CPLMM)
 
@@ -211,7 +211,7 @@ mw <- compare_groups_mannwhitney(
 )
 ```
 
-## Visualization {#visualization}
+## Visualization
 
 ### CPLMM Trajectory Plots
 
@@ -262,7 +262,7 @@ plot_expression_boxplot(
 )
 ```
 
-## Pathway Analysis {#pathway-analysis}
+## Pathway Analysis
 
 ### Data Requirements
 
@@ -319,7 +319,7 @@ plot_top_pathways_bar(
 )
 ```
 
-## Survival Analysis {#survival-analysis}
+## Survival Analysis
 
 Compute time-to-threshold events per subject and plot Kaplan-Meier curves:
 
@@ -334,7 +334,7 @@ plot_km_with_threshold(
 )
 ```
 
-## Function Reference {#function-reference}
+## Function Reference
 
 ### Data Requirements by Function Type
 
