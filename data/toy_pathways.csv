@@ -1,0 +1,51 @@
+Pathway,Gene,Source,CategoryGroup,LogQValue,Cleaned_Pathway,Category
+purine nucleoside diphosphate metabolic process,P1,Metascape,GO Biological Processes,2.480482562359069,General Metabolic Process,Metabolism
+CARBOHYD - N-linked (GlcNAc...) asparagine,P2,DAVID,UP_SEQ_FEATURE,1.6051515671043068,N-linked glycosylation (asparagine),Protein Biology
+regulation of leukocyte cell-cell adhesion,P3,Metascape,GO Biological Processes,2.95693326852506,Leukocyte Regulation,Immune & Inflammation
+CARBOHYD - N-linked (GlcNAc...) asparagine,P4,DAVID,UP_SEQ_FEATURE,1.6051515671043068,N-linked glycosylation (asparagine),Protein Biology
+negative regulation of T cell proliferation,P5,Metascape,GO Biological Processes,1.4839954969231366,T-cell Regulation,Immune & Inflammation
+digestive system development,P6,Metascape,GO Biological Processes,1.4512563941752583,System Development,Development
+extracellular exosome,P7,DAVID,GOTERM_CC_DIRECT,1.7765792515435297,Extracellular Exosome,Cellular Location
+positive regulation of defense response,P8,Metascape,GO Biological Processes,1.797966232604495,positive regulation of defense response,Other
+regulation of cell activation,P9,Metascape,GO Biological Processes,2.242122240546482,regulation of cell activation,Other
+cell activation,P10,Metascape,GO Biological Processes,3.120080436884875,cell activation,Other
+Signaling by Interleukins,P9,Reactome,Reactome,1.4744481076663132,Interleukin Signaling,Immune & Inflammation
+purine-containing compound catabolic process,P11,Metascape,GO Biological Processes,1.850267535582789,Catabolic Process,Metabolism
+nucleoside diphosphate catabolic process,P12,Metascape,GO Biological Processes,3.279654518036416,Catabolic Process,Metabolism
+TNF receptor superfamily (TNFSF) members mediating non-canonical NF-kB pathway,P13,Reactome,Reactome,1.328419529873888,TNF receptor superfamily (TNFSF) members mediating non-canonical NF-kB pathway,Other
+cell activation,P14,Metascape,GO Biological Processes,3.120080436884875,cell activation,Other
+Cleavage on pair of basic residues,P15,DAVID,UP_KW_PTM,1.3473623106034356,Protein Cleavage,Protein Biology
+purine-containing compound catabolic process,P16,Metascape,GO Biological Processes,1.850267535582789,Catabolic Process,Metabolism
+negative regulation of immune system process,P17,Metascape,GO Biological Processes,1.47503206659106,Immune System Process,Immune & Inflammation
+response to molecule of bacterial origin,P18,Metascape,GO Biological Processes,3.56474547007794,Response to Bacterium,Immune & Inflammation
+regulation of mononuclear cell proliferation,P9,Metascape,GO Biological Processes,2.726592096108776,Mononuclear Cell Regulation,Immune & Inflammation
+Allosteric enzyme,P19,DAVID,UP_KW_MOLECULAR_FUNCTION,1.7656784215631411,Allosteric enzyme,Other
+small molecule biosynthetic process,P20,Metascape,GO Biological Processes,2.998095411782137,Biosynthetic Process,Metabolism
+response to bacterium,P9,Metascape,GO Biological Processes,3.239928456875709,response to bacterium,Other
+regulation of T cell activation,P21,Metascape,GO Biological Processes,2.9512156196691657,T-cell Regulation,Immune & Inflammation
+cytokine-mediated signaling pathway,P22,Metascape,GO Biological Processes,2.242122240546482,Cytokine Signaling,Immune & Inflammation
+response to bacterium,P23,Metascape,GO Biological Processes,3.239928456875709,response to bacterium,Other
+Signal,P24,DAVID,UP_KW_DOMAIN,3.8235914273021065,Signal Transduction,Signal Transduction
+Signal,P17,DAVID,UP_KW_DOMAIN,3.8235914273021065,Signal Transduction,Signal Transduction
+CARBOHYD - N-linked (GlcNAc...) asparagine,P21,DAVID,UP_SEQ_FEATURE,1.6051515671043068,N-linked glycosylation (asparagine),Protein Biology
+positive regulation of response to external stimulus,P5,Metascape,GO Biological Processes,2.311807689810143,positive regulation of response to external stimulus,Other
+positive regulation of locomotion,P25,Metascape,GO Biological Processes,1.7541245512328811,positive regulation of locomotion,Other
+purine nucleoside diphosphate catabolic process,P1,Metascape,GO Biological Processes,2.7485991583287985,Catabolic Process,Metabolism
+mononuclear cell differentiation,P15,Metascape,GO Biological Processes,1.3077787190130834,Mononuclear Cell Regulation,Immune & Inflammation
+positive regulation of mononuclear cell proliferation,P3,Metascape,GO Biological Processes,1.436417734270191,Mononuclear Cell Regulation,Immune & Inflammation
+positive regulation of cell development,P26,Metascape,GO Biological Processes,2.118107416292572,System Development,Development
+cellular response to cytokine stimulus,P15,Metascape,GO Biological Processes,3.1044296397235183,Cytokine Signaling,Immune & Inflammation
+digestive system development,P20,Metascape,GO Biological Processes,1.4512563941752583,System Development,Development
+CARBOHYD - N-linked (GlcNAc...) asparagine,P27,DAVID,UP_SEQ_FEATURE,1.6051515671043068,N-linked glycosylation (asparagine),Protein Biology
+cell-matrix adhesion,P28,Metascape,GO Biological Processes,3.0807877080315977,Cell-Matrix Adhesion,ECM & Adhesion
+leukocyte activation,P9,Metascape,GO Biological Processes,2.775161179841935,Leukocyte Regulation,Immune & Inflammation
+positive regulation of locomotion,P7,Metascape,GO Biological Processes,1.7541245512328811,positive regulation of locomotion,Other
+cell-cell adhesion,P7,Metascape,GO Biological Processes,2.7485991583287985,Cell-Cell Adhesion,ECM & Adhesion
+regulation of leukocyte proliferation,P3,Metascape,GO Biological Processes,3.0807877080315977,Leukocyte Regulation,Immune & Inflammation
+CARBOHYD - N-linked (GlcNAc...) asparagine,P14,DAVID,UP_SEQ_FEATURE,1.6051515671043068,N-linked glycosylation (asparagine),Protein Biology
+lymphocyte differentiation,P29,Metascape,GO Biological Processes,1.7882144295555178,Lymphocyte Regulation,Immune & Inflammation
+response to molecule of bacterial origin,P3,Metascape,GO Biological Processes,3.56474547007794,Response to Bacterium,Immune & Inflammation
+response to molecule of bacterial origin,P30,Metascape,GO Biological Processes,3.56474547007794,Response to Bacterium,Immune & Inflammation
+leukocyte activation,P29,Metascape,GO Biological Processes,2.775161179841935,Leukocyte Regulation,Immune & Inflammation
+positive regulation of cell motility,P31,Metascape,GO Biological Processes,1.808365568236037,positive regulation of cell motility,Other
+positive regulation of cell development,P32,Metascape,GO Biological Processes,2.118107416292572,System Development,Development
